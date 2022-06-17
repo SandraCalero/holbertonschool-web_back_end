@@ -8,4 +8,5 @@
 
 
 def add(a: float, b: float) -> float:
+    """It's returning the sum of a and b"""
     return a + b
